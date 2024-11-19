@@ -8,4 +8,4 @@
   This dispenser is aware if someone badge with his school RFID card on a RC522 module (MIFARE protocol) but didnt took his gel dispense. That would generate an alarme on this following App :
   Mobile App made on AppInventor including voice commands to be informed of battery level as well as gel reserve
 
-  This product was presented at the French Engineering Science Olympiads 2021 Edition
+  This product was presented at the **French Engineering Science Olympiads 2021 Edition**
