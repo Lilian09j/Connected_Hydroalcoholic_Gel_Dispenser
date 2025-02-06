@@ -10,3 +10,7 @@
   A force-sensing resistor (FSR402) is used to mesure the weight of the jar, giving an indication about the remaining gel liquid quantity
 
   This product was presented at the **French Engineering Science Olympiads 2021 Edition**
+
+
+  Distributeur de gel hydroalcolique connecté basé sur un Arduino Uno avec développement d'une application mobile et d'une connectibité Bluetooth
+  Participation aux Olympiades des Sciences de l'Ingénieur 2021
